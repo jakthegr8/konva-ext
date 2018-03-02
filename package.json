@@ -1,0 +1,18 @@
+{
+  "name": "konva-exp",
+  "version": "1.0.0",
+  "description": "Konva 1.7.6 with experimental resize features",
+  "main": "konva.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "konva"
+  ],
+  "author": "Arun Kumar Jayakodi <arun.ranush@gmail.com>",
+  "license": "No idea :)",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/jakthegr8/konva-ext"
+  }
+}
